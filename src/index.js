@@ -1,20 +1,28 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import Chat from './Chat';
+import Login from './Login';
+//import Chat from './Chat';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+export default function ChatApp(){
+  const [view, setView] = React.useState(0);
+  function selectView(){
+    switch(view){
+      case 0: return <Login />
+      //case 1: return <Chat />
+      default: return <Error />
+    }
+  }
+  return(
+    <React.StrictMode>
+     
+    </React.StrictMode>
+  )
+}
 
-// root.render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>
-// );
+function Error(){
+  return(<p>Error!</p>)
+}
 
+// {selectView()}
 
-root.render(
-  <React.StrictMode>
-    <Chat />
-  </React.StrictMode>
-);
+ReactDOM.createRoot(document.getElementById('root')).render(<ChatApp />);
