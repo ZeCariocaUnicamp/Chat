@@ -1,0 +1,13 @@
+{
+  "completed_at": null,
+  "completed_by": null,
+  "content": "Start\n[Cliente] Inicie a conversa cumprimentando \n[Sistema] Pergunte como pode ajudar o cliente\n[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido\n[Sistema] Pergunte quais os itens do pedido\n[Cliente] Detalhe os itens: 2 Camar\u00e3o\n[Sistema] Confirme os itens em uma lista enumerada\n\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: Meia Marguerita e meia Pepperoni\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 125,70\n[Sistema] Pergunte o endere\u00e7o\n[Cliente] Informe o endere\u00e7o: Vila Ivone N\u00famero 854\n[Sistema] Pergunte a forma de pagamento\n[Cliente] Pe\u00e7a para pagar com Dinheiro\n[Sistema] Pergunte se precisa de troco\n[Cliente] Troco para R$ 200,00\n[Sistema] Confirme o pedido. Informe que est\u00e1 sendo preparado e que vai demorar 1 hora minutos\n",
+  "first_load": "2022-07-04T02:40:29.220057",
+  "idd": "9",
+  "last_user_writting": null,
+  "last_writting": null,
+  "started_writting_at": null,
+  "status": "open",
+  "turn_now": 1,
+  "turns": []
+}

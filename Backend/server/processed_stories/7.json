@@ -1,0 +1,46 @@
+{
+  "completed_at": null,
+  "completed_by": null,
+  "content": "Start\n[Cliente] Inicie a conversa cumprimentando \n[Sistema] Pergunte como pode ajudar o cliente\n[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido\n[Sistema] Pergunte quais os itens do pedido\n[Cliente] Detalhe os itens: 2 Calabresa com cheddar\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 86,94\n[Sistema] Pergunte o endere\u00e7o\n\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: 1 Palmito com catupiry ; 2 Al Capone ; 2 Alho Negro\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 80,94\n[Sistema] Pergunte o endere\u00e7o\n\n[Cliente] Pergunte se pode adicionar mais um item\n[Sistema] Informe que pode adicionar/alterar o que o cliente desejar\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: 1 Al Capone ; Meia Palmito e champignon e meia Cream cheese com abobrinha\n[Sistema] Confirme os itens em uma lista enumerada\n\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: 2 Peito de peru e champignon ; 1 Atum\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 74,82\n[Sistema] Pergunte o endere\u00e7o\n[Cliente] Informe o endere\u00e7o: Vila Formosa N\u00famero 86\n[Sistema] Pergunte a forma de pagamento\n[Cliente] Pe\u00e7a para pagar com Cart\u00e3o\n[Sistema] Confirme o pedido. Informe que est\u00e1 sendo preparado e que vai demorar 60 minutos minutos\n",
+  "first_load": "2022-07-04T02:40:29.211656",
+  "idd": "7",
+  "last_user_writting": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+  "last_writting": "2022-07-04T14:46:04.701081",
+  "started_writting_at": "2022-07-04T02:40:39.137070",
+  "status": "active",
+  "turn_now": 5,
+  "turns": [
+    {
+      "position": 1,
+      "remote_addr": "172.17.0.1",
+      "text": "7  oi",
+      "timestamp": "2022-07-04T02:40:41.654337",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    },
+    {
+      "position": 2,
+      "remote_addr": "172.17.0.1",
+      "text": "7 oi oi",
+      "timestamp": "2022-07-04T02:40:43.567081",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    },
+    {
+      "position": 3,
+      "remote_addr": "172.17.0.1",
+      "text": "oi",
+      "timestamp": "2022-07-04T02:40:52.309630",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    },
+    {
+      "position": 4,
+      "remote_addr": "172.17.0.1",
+      "text": "oi",
+      "timestamp": "2022-07-04T02:40:52.724878",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    }
+  ]
+}

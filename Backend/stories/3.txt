@@ -1,0 +1,12 @@
+Start
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: 2 Berinjela e abobrinha ; 1 Frango com cheddar
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 111,48
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Conjunto Promorar São Luis Número 392
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com Cartão
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 30 minutos minutos

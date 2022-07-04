@@ -1,0 +1,14 @@
+Start
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: Meia Pepperoni e meia Siciliana
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 54,82
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Brasilândia Número 683
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com PIX
+[Sistema] Passe a chave Aleatória cd6e3db3-1de5-cbf1-495d-2c47e411f2a3 para PIX
+[Cliente] Avise que o pix foi feito
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 60 minutos minutos

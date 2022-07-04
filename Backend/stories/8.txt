@@ -1,0 +1,22 @@
+Start
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: Meia Francesa e meia Champignon e manjericão ; 1 Frango com palmito ; 2 Frango com catupiry
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 131,29
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Jardim das Bandeiras Número 694
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Pergunte se pode adicionar mais um item
+[Sistema] Informe que pode adicionar/alterar o que o cliente desejar
+[Cliente] Informe alteração no pedido
+[Cliente] Detalhe os itens: 1 Frango com catupiry ; 1 Alho e óleo ; 2 Carne seca com cream cheese
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 99,67
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Jardim Petrópolis Número 253
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com Cartão
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 2 horas minutos

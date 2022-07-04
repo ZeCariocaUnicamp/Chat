@@ -1,0 +1,20 @@
+Start
+[Cliente] Inicie a conversa cumprimentando 
+[Sistema] Pergunte como pode ajudar o cliente
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: Meia Tribeca e meia Scamorza ; 2 Peito de peru e champignon ; Meia Rúcula e meia Americana
+[Sistema] Confirme os itens em uma lista enumerada
+
+[Cliente] Informe alteração no pedido
+[Cliente] Detalhe os itens: 2 Alho e óleo
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 87,14
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Jardim Guanabara Número 648
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com Dinheiro
+[Sistema] Pergunte se precisa de troco
+[Cliente] Não precisa de troco
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 2 horas minutos

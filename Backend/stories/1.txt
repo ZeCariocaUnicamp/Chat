@@ -1,0 +1,14 @@
+Start
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: Meia Cebola caramelizada e meia Caipira ; Meia Frango com cheddar e meia Berinjela e abobrinha ; Meia Frango com palmito e meia Peito de peru e champignon
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 66,39
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Vila Medeiros Número 371
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com PIX
+[Sistema] Passe a chave Aleatória 273a6c4a-8082-7212-a8a8-f41d351e2953 para PIX
+[Cliente] Avise que o pix foi feito
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 1 hora minutos

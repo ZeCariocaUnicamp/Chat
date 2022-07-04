@@ -1,0 +1,8 @@
+{
+    "server_folder": "./server/",
+    "stories_folder": "./stories",
+    "user_file": "users.txt",
+    "server_key": "1033b11e-ea82-11ec-8fea-0242ac120002",
+    "limit_active_stories": 3,
+    "min_writting_time_seconds": 600
+}

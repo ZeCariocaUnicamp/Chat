@@ -1,0 +1,14 @@
+Start
+[Cliente] Inicie a conversa cumprimentando 
+[Sistema] Pergunte como pode ajudar o cliente
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: 2 Al Capone ; Meia Cream cheese com abobrinha e meia Berinjela e abobrinha
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 63,27
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Vila Seabra Número 204 Apartamento 848
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com Cartão
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 1 hora minutos

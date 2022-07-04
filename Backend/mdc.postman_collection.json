@@ -1,0 +1,294 @@
+{
+	"info": {
+		"_postman_id": "ec83d745-f3e9-42c5-8797-88ec52b0b634",
+		"name": "mdc",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10015758"
+	},
+	"item": [
+		{
+			"name": "Check user",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "email",
+							"value": "email@e.com",
+							"type": "text"
+						},
+						{
+							"key": "server_key",
+							"value": "1033b11e-ea82-11ec-8fea-0242ac120002",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8888/check_user",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8888",
+					"path": [
+						"check_user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Add user",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "email",
+							"value": "mail@mail.com",
+							"type": "text"
+						},
+						{
+							"key": "name",
+							"value": "nome4",
+							"type": "text"
+						},
+						{
+							"key": "server_key",
+							"value": "1033b11e-ea82-11ec-8fea-0242ac120002",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8888/add_user",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8888",
+					"path": [
+						"add_user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Story Info",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "email",
+							"value": "mail@mail.com",
+							"type": "text"
+						},
+						{
+							"key": "story_id",
+							"value": "32",
+							"type": "text"
+						},
+						{
+							"key": "server_key",
+							"value": "1033b11e-ea82-11ec-8fea-0242ac120002",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8888/get_story_info",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8888",
+					"path": [
+						"get_story_info"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Set Story Complete",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "email",
+							"value": "mail@mail.com",
+							"type": "text"
+						},
+						{
+							"key": "story_id",
+							"value": "4",
+							"type": "text"
+						},
+						{
+							"key": "server_key",
+							"value": "1033b11e-ea82-11ec-8fea-0242ac120002",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8888/story_mark_as_complete",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8888",
+					"path": [
+						"story_mark_as_complete"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Story (No add turn to story)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "email",
+							"value": "mail@mail.com",
+							"type": "text"
+						},
+						{
+							"key": "server_key",
+							"value": "1033b11e-ea82-11ec-8fea-0242ac120002",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8888/get_story",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8888",
+					"path": [
+						"get_story"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Story (Adding turn)",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "email",
+							"value": "mail@mail.com",
+							"type": "text"
+						},
+						{
+							"key": "server_key",
+							"value": "1033b11e-ea82-11ec-8fea-0242ac120002",
+							"type": "text"
+						},
+						{
+							"key": "story_id",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "story_turn",
+							"value": "1",
+							"type": "text"
+						},
+						{
+							"key": "story_text",
+							"value": "Texto bla bla bla",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8888/get_story",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8888",
+					"path": [
+						"get_story"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Situation",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "server_key",
+							"value": "1033b11e-ea82-11ec-8fea-0242ac120002",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8888/get_situation",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8888",
+					"path": [
+						"get_situation"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

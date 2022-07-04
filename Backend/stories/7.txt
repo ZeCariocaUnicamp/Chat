@@ -1,0 +1,34 @@
+Start
+[Cliente] Inicie a conversa cumprimentando 
+[Sistema] Pergunte como pode ajudar o cliente
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: 2 Calabresa com cheddar
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 86,94
+[Sistema] Pergunte o endereço
+
+[Cliente] Informe alteração no pedido
+[Cliente] Detalhe os itens: 1 Palmito com catupiry ; 2 Al Capone ; 2 Alho Negro
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 80,94
+[Sistema] Pergunte o endereço
+
+[Cliente] Pergunte se pode adicionar mais um item
+[Sistema] Informe que pode adicionar/alterar o que o cliente desejar
+[Cliente] Informe alteração no pedido
+[Cliente] Detalhe os itens: 1 Al Capone ; Meia Palmito e champignon e meia Cream cheese com abobrinha
+[Sistema] Confirme os itens em uma lista enumerada
+
+[Cliente] Informe alteração no pedido
+[Cliente] Detalhe os itens: 2 Peito de peru e champignon ; 1 Atum
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 74,82
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Vila Formosa Número 86
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com Cartão
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 60 minutos minutos

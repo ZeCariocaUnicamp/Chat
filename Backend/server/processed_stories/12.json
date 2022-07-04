@@ -1,0 +1,54 @@
+{
+  "completed_at": null,
+  "completed_by": null,
+  "content": "Start\n[Cliente] Inicie a conversa cumprimentando \n[Sistema] Pergunte como pode ajudar o cliente\n[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido\n[Sistema] Pergunte quais os itens do pedido\n[Cliente] Detalhe os itens: 1 Berinjela e abobrinha ; Meia Frango com palmito e meia Peito de peru e champignon\n[Sistema] Confirme os itens em uma lista enumerada\n\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: 1 R\u00facula ; Meia Caipira e meia Frango com cheddar ; 2 R\u00facula\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 60,24\n[Sistema] Pergunte o endere\u00e7o\n\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: 2 Caipira ; 1 Pepperoni\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 67,57\n[Sistema] Pergunte o endere\u00e7o\n\n[Cliente] Pergunte se pode adicionar mais um item\n[Sistema] Informe que pode adicionar/alterar o que o cliente desejar\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: 1 Pepperoni ; Meia Piment\u00e3o e Azeitona e meia Camar\u00e3o ; 2 Scamorza\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 131,60\n[Sistema] Pergunte o endere\u00e7o\n[Cliente] Informe o endere\u00e7o: Jardim Paulista N\u00famero 601\n[Sistema] Pergunte a forma de pagamento\n[Cliente] Pergunte se pode adicionar mais um item\n[Sistema] Informe que pode adicionar/alterar o que o cliente desejar\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: 1 Palmito e champignon ; 2 Frango \u00e0 parmegiana\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 119,65\n[Sistema] Pergunte o endere\u00e7o\n[Cliente] Informe o endere\u00e7o: Vila Continental N\u00famero 774\n[Sistema] Pergunte a forma de pagamento\n[Cliente] Pe\u00e7a para pagar com Cart\u00e3o\n[Sistema] Confirme o pedido. Informe que est\u00e1 sendo preparado e que vai demorar 2 horas minutos\n",
+  "first_load": "2022-07-04T02:40:29.178578",
+  "idd": "12",
+  "last_user_writting": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+  "last_writting": "2022-07-04T14:43:46.475711",
+  "started_writting_at": "2022-07-04T02:40:32.229731",
+  "status": "active",
+  "turn_now": 6,
+  "turns": [
+    {
+      "position": 1,
+      "remote_addr": "172.17.0.1",
+      "text": "12 oi",
+      "timestamp": "2022-07-04T02:40:37.333372",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    },
+    {
+      "position": 2,
+      "remote_addr": "172.17.0.1",
+      "text": "12 oioi",
+      "timestamp": "2022-07-04T02:40:39.129769",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    },
+    {
+      "position": 3,
+      "remote_addr": "172.17.0.1",
+      "text": "12 oi",
+      "timestamp": "2022-07-04T02:40:45.025859",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    },
+    {
+      "position": 4,
+      "remote_addr": "172.17.0.1",
+      "text": "oiiiiiiiiii",
+      "timestamp": "2022-07-04T02:40:50.659310",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    },
+    {
+      "position": 5,
+      "remote_addr": "172.17.0.1",
+      "text": "oiiiiiii",
+      "timestamp": "2022-07-04T02:40:51.789652",
+      "user": "33b46c3b-0299-4459-924s-ab5ba7f67f1a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    }
+  ]
+}

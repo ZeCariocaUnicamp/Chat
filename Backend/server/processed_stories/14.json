@@ -1,0 +1,13 @@
+{
+  "completed_at": null,
+  "completed_by": null,
+  "content": "Start\n[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido\n[Sistema] Pergunte quais os itens do pedido\n[Cliente] Detalhe os itens: Meia Jardineira e meia Alcachofra ; 2 Alho Negro\n[Sistema] Confirme os itens em uma lista enumerada\n\n[Cliente] Pergunte se pode adicionar mais um item\n[Sistema] Informe que pode adicionar/alterar o que o cliente desejar\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: 2 Alho Negro ; 2 Palmito e champignon\n[Sistema] Confirme os itens em uma lista enumerada\n\n[Cliente] Pergunte se pode adicionar mais um item\n[Sistema] Informe que pode adicionar/alterar o que o cliente desejar\n[Cliente] Informe altera\u00e7\u00e3o no pedido\n[Cliente] Detalhe os itens: Meia Berinjela e abobrinha e meia Mu\u00e7arela ; 2 Cream cheese com abobrinha\n[Sistema] Confirme os itens em uma lista enumerada\n[Cliente] Confirme que os itens do pedido est\u00e3o corretos\n[Sistema] Informe o total: R$ 60,52\n[Sistema] Pergunte o endere\u00e7o\n[Cliente] Informe o endere\u00e7o: Vila Liviero N\u00famero 404\n[Sistema] Pergunte a forma de pagamento\n[Cliente] Pe\u00e7a para pagar com Cart\u00e3o\n[Sistema] Confirme o pedido. Informe que est\u00e1 sendo preparado e que vai demorar 60 minutos minutos\n",
+  "first_load": "2022-07-04T02:40:29.185947",
+  "idd": "14",
+  "last_user_writting": null,
+  "last_writting": null,
+  "started_writting_at": null,
+  "status": "open",
+  "turn_now": 1,
+  "turns": []
+}

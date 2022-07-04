@@ -1,0 +1,14 @@
+Start
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: 1 Portuguesa ; Meia Repolho e meia Caprese ; 1 Frango com palmito
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 122,85
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Conjunto Habitacional Presidente Eurico Gaspar Dutra Número 512
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com PIX
+[Sistema] Passe a chave CNPJ 72.504.254/8984-37 para PIX
+[Cliente] Avise que o pix foi feito
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 60 minutos minutos

@@ -1,0 +1,24 @@
+Start
+[Cliente] Fale que quer fazer pedido antes de informar os detalhes do pedido
+[Sistema] Pergunte quais os itens do pedido
+[Cliente] Detalhe os itens: Meia Jardineira e meia Alcachofra ; 2 Alho Negro
+[Sistema] Confirme os itens em uma lista enumerada
+
+[Cliente] Pergunte se pode adicionar mais um item
+[Sistema] Informe que pode adicionar/alterar o que o cliente desejar
+[Cliente] Informe alteração no pedido
+[Cliente] Detalhe os itens: 2 Alho Negro ; 2 Palmito e champignon
+[Sistema] Confirme os itens em uma lista enumerada
+
+[Cliente] Pergunte se pode adicionar mais um item
+[Sistema] Informe que pode adicionar/alterar o que o cliente desejar
+[Cliente] Informe alteração no pedido
+[Cliente] Detalhe os itens: Meia Berinjela e abobrinha e meia Muçarela ; 2 Cream cheese com abobrinha
+[Sistema] Confirme os itens em uma lista enumerada
+[Cliente] Confirme que os itens do pedido estão corretos
+[Sistema] Informe o total: R$ 60,52
+[Sistema] Pergunte o endereço
+[Cliente] Informe o endereço: Vila Liviero Número 404
+[Sistema] Pergunte a forma de pagamento
+[Cliente] Peça para pagar com Cartão
+[Sistema] Confirme o pedido. Informe que está sendo preparado e que vai demorar 60 minutos minutos
